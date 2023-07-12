@@ -16,3 +16,7 @@
 - Calculator does not currently support dividing by 0
 - Calculator cannot go above 19 digits 
 - No functions above the already stated functions are avaliable (sin, cos, tan, etc)
+
+
+##THANKS TO adrianbautista for providing a framework!
+https://github.com/adrianbautista/html-css-template 
